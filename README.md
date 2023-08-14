@@ -52,7 +52,6 @@
 
 <p align="center"> 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mokhtarouarouss&theme=highcontrast&hide_border=true" alt="mokhtarouarouss"/>
-<img   src="https://github-readme-stats.vercel.app/api?username=mokhtarouarouss&show_icons=true&theme=dracula&title_color=ff8000&text_color=ffffff&bg_color=6a6a6a&locale=en&hide_border=true" alt="mokhtarouarouss" />
 
 
 
